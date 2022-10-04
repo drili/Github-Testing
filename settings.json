@@ -1,3 +1,5 @@
 {
-  json: "true"
+  "json": "true",
+  "test1": "1",
+  "test2" : "2",
 }
